@@ -12,3 +12,73 @@ Availability
 ---------------------
 Ensuring that information is accessible and usable in a timely and reliable manner. This can include deploying redundant systems, such as multiple servers or backup power sources, to ensure that systems can continue to operate if one fails. 
 It can also include using load balancers to distribute incoming requests across multiple systems, and regularly testing and maintaining systems to identify and address potential issues. 
+
+Intro
+1.Cybersecurity => It is the collective methods,technologies,and processes that protect computer systems,networks,and the information they contain.
+It is the practise of protecting computer networks,devices and information from damage,loss or unauthorized access.
+Protects digital information  from cyberthreats.(preserves CIA)
+
+Categories:
+=>Critical Infrastructure 
+=>Application Security
+=>Network Security
+=>Cloud Security
+=>IOT Security
+
+Information Security and Information System Security
+  It is the practise of protecting information.
+=>Preventing
+=>Detecting
+=>Remediating
+
+
+Principles of INfomation security
+c=>Confidentiality
+Data is kept confidential and private.
+I=>Integrity
+Data is authentic,accurabe,and free from tampering
+A=>Availability
+Data is available to those who need it.
+---------------------------------------
+DAD triac =>opposite of CIA
+D=>Disclosure
+Confidential data is exposed to unauthorised paties 
+A=>Alteration
+The tampering data cannot be prevented or the authenticity of the data cannot be determined
+D=>Denial
+Unauthorized agents are prevented from accessing data.
+
+A=>Authentication
+Process of identifying and verifying a person or thing
+A=>Authorization
+Process of controlling access to resources
+A=>Accounting
+Record keeping and tracing of agent activities on computer devices and networks
+THREAT LANDSCAPE
+==========================================
+A threat landscape, also known as a threat environment, is a collection of threats in a specific context or domain.
+It includes information about identified threats, risks, vulnerable assets, threat actors, and observed trends.
+
+THREAT ACTORS OR BAD ACTORS
+=====================================
+People who try to steal,sabotage,or stop you from using computer systems or accessing information that you are authorized to use and that is stored on or in transit between computing devices.
+Types
+=====
+1.Explorer => They perhaps the least nefarious of all bad actor types. 
+2.Hacktivist 
+3.Cyberterrorist
+4.Cybercriminal
+5.Cyberwarrior
+
+Methods used by Explorer and other bad actors is Phishing
+TYPES
+1.SPEAR PHISHING(Through email)
+2.SMISHING(Through text messages or SMS)
+3.VISHING(VoIP =>VOICE-OVER-IP)
+
+-------------------------------------------------
+HACKTIVIST:
+Common strategy of hactivists is to build a botnet
+
+
+
