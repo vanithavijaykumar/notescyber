@@ -1,0 +1,14 @@
+The CIA triad is a cybersecurity model that stands for Confidentiality, Integrity, and Availability. It's a common model that's used to develop security systems and guide organizations in protecting their sensitive information and systems. The CIA triad is a foundational concept in many cybersecurity education models and is essential for cybersecurity experts to learn. 
+The three pillars of the CIA triad are: 
+Confidentiality
+----------------------
+Ensuring that authorized restrictions on information access and disclosure are preserved, including protecting personal privacy and proprietary information.
+This involves controlling access to information to prevent unauthorized sharing, whether intentional or accidental. 
+Integrity
+-------------------------
+Ensuring that data is trustworthy and free from tampering, and that it's authentic, accurate, and reliable. 
+This involves guarding against improper information modification or destruction, and ensuring information non-repudiation. 
+Availability
+---------------------
+Ensuring that information is accessible and usable in a timely and reliable manner. This can include deploying redundant systems, such as multiple servers or backup power sources, to ensure that systems can continue to operate if one fails. 
+It can also include using load balancers to distribute incoming requests across multiple systems, and regularly testing and maintaining systems to identify and address potential issues. 
