@@ -1,0 +1,67 @@
+Protocols:
+  =>a set of rules for formatting and processing data.
+Networks: 
+  =>a group of devices that share resources and are connected over a network
+OSI=>Open Systems Interconnection
+   *represents an easy and intuitive way to standardize the different parts required to communicate across networks
+PACKETS:
+It is a formatted unit of data that is sent over a network, such as the internet, in telecommunications and computer networking.
+Packets are made up of two parts: a header and a payload
+Header: Contains information about the packet, such as its origin and destination IP addresses, sequencing information, and error detection codes 
+Payload: The actual data being sent.
+7 types
+1.PHYSICAL
+2.DATA LINK
+3.NETWORK
+4.TRANSPORT
+5.SESSION
+6.PRESENTATION
+7.APPLICATION
+SDN=> SOFTWARE DEFINED NETWORKING
+  *Technology which allows more layers of the hardware to be implemented via software
+layer 7=>APPLICATION LAYER:
+The business logic and functionality of the application lies here.
+  Examples of Layer 7 Applications:
+
+1.HTTP ("Hypertext Transfer Protocol") - Enables us to access web applications
+2.FTP ("File Transfer Protocol") - Allows users to transfer files
+3.SNMP ("Simple Network Management Protocol") - Protocol to read and update network device configurations.
+There are many applications which uses these protocols like Google Chrome, Microsoft Skype and FileZilla.
+
+Layer 6:PRESENTATION LAYER
+It is responsible of adapting, transforming and translating data.
+            *Encoding Schemes used to represent text and data, for example ASCII(American Standard Code for Information Interchange) and UTF(Unicode Transformation Format).
+            *Encryption for services, for example SSL ("Secure Sockets Layer") and TLS ("Transport Security Layer")
+            *Compression, for example GZip in use in many implementations of HTTP.
+Layer 5-SESSION LAYER
+      It involves establishing, maintaining and terminating connections, otherwise referred to as sessions
+Layer 4=>TRANSPORT LAYER
+   The layer which allows applications to be represented on the network.
+     *TCP ("Transmission Control Protocol") - Used for many applications, ensuring stability, control of how much data can be sent at any given time, reliability and more.
+     *UDP ("User Datagram Protocol") - Lightweight and quick protocol use for many services.
+      *QUIC ("Quick UDP Internet Connections") - A protocol designed for faster connections and goes hand-in-hand with the version 2 of the HTTP protocol
+LAYER 3=>NETWORK
+     A layer responsible of routing packets between networks via routers.
+
+On this layer, the following protocols reside:
+
+IP ("Internet Protocol") - Used everyday when accessing the Internet. Comes in two versions, IP version 4 and 6.
+ICMP ("Internet Control Message Protocol") - Used by network devices and network operators, to diagnose network connections or for devices to send and respond to error conditions and more.
+IPSec ("Internet Protocol Security") - Allows encrypted and secure connections between two network devices.
+
+LAYER 2=> Link layer
+
+Ethernet - An essential protocol used by most operating systems when connecting to networks using a physical cable.
+Wi-Fi ("Wireless Fidelity") - For accessing networks via radio signals. It uses a family of protocols called IEEE 802.11.xx
+NDP ("Neighbor Discovery Protocol") - IP version 6(IPv6) uses this protocol on the Link Layer to gather information required to communicate via IPv6.
+
+LAYER 1-PHYSICAL
+  CAN Bus ("Controller Area Network") - Used in microcontrollers and other devices to communicate to other similar devices, not involving a computer. Often used in ICS ("Industrial Control Systems").
+  Ethernet Physical Layer - Used by Ethernet on the physical layer to send signals with speeds up to many gigabits of traffic per second.
+  Bluetooth Physical Layer - Bluetooth also has its own specifications on how radio signals should be sent and received.
+
+IP=>The Internet Protocol
+
+
+
+   
