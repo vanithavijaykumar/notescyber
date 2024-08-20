@@ -12,7 +12,7 @@ Availability
 ---------------------
 Ensuring that information is accessible and usable in a timely and reliable manner. This can include deploying redundant systems, such as multiple servers or backup power sources, to ensure that systems can continue to operate if one fails. 
 It can also include using load balancers to distribute incoming requests across multiple systems, and regularly testing and maintaining systems to identify and address potential issues. 
-
+==========================================================================================================================================================================================================================
 Intro
 1.Cybersecurity => It is the collective methods,technologies,and processes that protect computer systems,networks,and the information they contain.
 It is the practise of protecting computer networks,devices and information from damage,loss or unauthorized access.
@@ -64,11 +64,11 @@ THREAT ACTORS OR BAD ACTORS
 People who try to steal,sabotage,or stop you from using computer systems or accessing information that you are authorized to use and that is stored on or in transit between computing devices.
 Types
 =====
-1.Explorer => They perhaps the least nefarious of all bad actor types. 
-2.Hacktivist 
-3.Cyberterrorist
-4.Cybercriminal
-5.Cyberwarrior
+1.Explorer => They perhaps the least nefarious of all bad actor types. =>Craves Recognition
+2.Hacktivist =>Motivated by ideology
+3.Cyberterrorist=>Aims to intimidate a  society
+4.Cybercriminal=>Driven by money 
+5.Cyberwarrior=>Serves a national government
 
 Methods used by Explorer and other bad actors is Phishing
 TYPES
@@ -79,6 +79,58 @@ TYPES
 -------------------------------------------------
 HACKTIVIST:
 Common strategy of hactivists is to build a botnet
+A hacktivist is someone who uses hacking to achieve social or political goals in the digital world. 
+The term is a combination of the words "hack" and "activism". 
+Hacktivists are motivated by their own perspectives of what they believe is "wrong" or "unjust".
+They use computer-based techniques, such as hacking, as a form of civil disobedience to promote their goals.
+Hacktivism can be carried out by a single activist or by a group of activists working together. 
+------------------------------------
+CYBERTERRORIST
+Cyberterrorism is a premeditated attack on computer systems, programs, and data that is motivated by politics, religion, or ideology. 
+The goal of cyberterrorism is to cause harm or intimidate a government or the public, and can include: 
+1.Disrupting critical infrastructure 
+2.Supporting political activism or hacktivism 
+3.Causing mass chaos 
+4.Inflicting physical damage or loss of life
+------------------------------------
+CYBERWARRIOR
+A cyber warrior is a person who uses information technology to protect a system by engaging in cyber warfare. 
+They may work for a country or organization to defend their digital infrastructure from cyber threats and attacks. 
+Cyber warriors may have advanced skills in computer networks, hacking techniques, and security.
 
+-----------------------------------------------
+Categories of Hackers:
+1.WHITE HAT=>Ethical
+2.BLACK HAT=>Malicious
+3.GREY HAT=>Not malicious,but not always ethical
+4.BLUE HAT=>Ethical,hired third party
 
+CYBERSECURITY THREAT
+It is an action exploiting a vulnerability that results in harm to a network or computer system.
+An attack vector is a method used by a bad actor to illegally access or inhibit a network,System,or facility
 
+Three components that comprise an attack vector
+1.Vulnerability
+2.Malware
+3.Pathway
+=====================================
+Main cybersecurity Threat Categories
+1.SOCIAL ENGINEERING
+2.MALWARE
+3.UNAUTHORIZED ACCESS
+4.SYSTEM DESIGN FAILURE
+
+1.SPEAR PHISHING=>This type of phishing attack is focused on a specific individual or group of individuals,unlike a regular phishing attack,which is agnostic and doesn't distinguish between targets
+2.DoS and DDoS=>A DDoS has infected many computers,which the bad actor controls by the way of the C&C server.
+3.Ransomware=>It is a type of malware that denies the user access to a system or information,often through encryption.
+
+===========================================
+COMMON CYBERSECURITY ATTACK VECTORS
+Birthday Attack=>The attack exploits a weakness that exists in some hashing algorithmss.
+The weakness is that multiple input values produced the same output value.
+Brute force=>A brute force attack is a hacking method that uses trial and error to crack passwords, login credentials, and encryption keys
+-----------------------------------------------------
+Threat Intelligence
+It possesses three requisite characteristic.
+It is an information that is relevant,actionable and Contextual
+CVSS=> Common Vulnerability Scoring System
